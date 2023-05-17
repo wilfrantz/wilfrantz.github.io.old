@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Wilfrantz Dede</title>
   <subtitle>Welcome to my documentation blog. Here, I provide valuable insights, tutorials, and code examples to help you enhance  your skills and stay informed about the latest trends. We can learn and grow together  on our software engineering journey. Let's unlock the full potential of your skills and dive into the world of  software engineering and C++ development!</subtitle>
-  <updated>2023-05-17T12:16:26-04:00</updated>
+  <updated>2023-05-17T13:10:46-04:00</updated>
   <author>
     <name>Wilfrantz Dede</name>
     <uri>http://localhost:4000/</uri>
@@ -20,23 +20,21 @@
 
   
   <entry>
-    <title>Enable Google Page Views</title>
-    <link href="http://localhost:4000/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
-    <published>2021-01-03T18:32:00-05:00</published>
+    <title>Step By Step Guide To Installing Lamp Stack.</title>
+    <link href="http://localhost:4000/posts/Step-by-Step-Guide-to-Installing-LAMP-Stack/" rel="alternate" type="text/html" title="Step By Step Guide To Installing Lamp Stack." />
+    <published>2023-05-16T23:33:00-04:00</published>
   
-    <updated>2021-01-03T18:32:00-05:00</updated>
+    <updated>2023-05-16T23:33:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/enable-google-pv/</id>
-    <content src="http://localhost:4000/posts/enable-google-pv/" />
+    <id>http://localhost:4000/posts/Step-by-Step-Guide-to-Installing-LAMP-Stack/</id>
+    <content src="http://localhost:4000/posts/Step-by-Step-Guide-to-Installing-LAMP-Stack/" />
     <author>
-      <name>sille_bille</name>
+      <name>Wilfrantz Dede</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="Documantation" />
     
   
 
@@ -48,189 +46,13 @@
 
 
 
-      
-  The content of this post applies only to Universal Analytics property (UA), not Google Analytics 4 (GA 4). In addition, since UA is about to be deprecated on Jul 1, 2023, the Page Views feature of Chirpy will also be deprecated at that time.
+      Introduction
 
+The LAMP stack, which stands for Linux, Apache, MySQL, and PHP, is a popular open-source web development environment. In this tutorial, we will walk you through the step-by-step process of installing LAMP on a Linux system. Let’s get started!
 
-This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep t...
-    </summary>
-  
+Step 1: Update System Packages
 
-  </entry>
-
-  
-  <entry>
-    <title>Customize the Favicon</title>
-    <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-10T12:34:00-04:00</published>
-  
-    <updated>2019-08-10T12:34:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/customize-the-favicon/</id>
-    <content src="http://localhost:4000/posts/customize-the-favicon/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
-
-Generate the favicon
-
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Getting Started</title>
-    <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T08:55:00-04:00</published>
-  
-    <updated>2019-08-09T08:55:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/getting-started/</id>
-    <content src="http://localhost:4000/posts/getting-started/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Prerequisites
-
-Follow the instructions in the Jekyll Docs to complete the installation of the basic environment. Git also needs to be installed.
-
-Installation
-
-Creating a New Site
-
-There are two ways to create a new repository for this theme:
-
-
-  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
-  GitHub Fork - Convenient for custom devel...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Writing a New Post</title>
-    <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-08T02:10:00-04:00</published>
-  
-    <updated>2019-08-08T02:10:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/write-a-new-post/</id>
-    <content src="http://localhost:4000/posts/write-a-new-post/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.
-
-Naming and Path
-
-Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of the root directory. Please note that the EXTENSION must be one of md and markdown. If you want to save time of cre...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Text and Typography</title>
-    <link href="http://localhost:4000/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
-    <published>2019-08-07T23:33:00-04:00</published>
-  
-    <updated>2019-08-07T23:33:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/text-and-typography/</id>
-    <content src="http://localhost:4000/posts/text-and-typography/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Demo" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.
-
-Headings
-
-H1 - heading
-
-H2 - heading
-
-H3 - heading
-
-H4 - heading
-
-Paragraph
-
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilis...
+Before we begin, it’s always a good practice to update the system packages to ensure you have the latest ve...
     </summary>
   
 
